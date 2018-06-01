@@ -1934,6 +1934,7 @@
       "anyOf": [
         {
           "enum": [
+            "universal",
             "web",
             "webworker",
             "node",
